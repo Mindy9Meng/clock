@@ -146,5 +146,12 @@ body {
     border-radius: 65px;
     transform: rotate(-90deg);
     transform-origin: 0 4.5px;
-    filter: drop-shadow(3px 2px 1px #b8bdca);
+    filter: drop-shadow(3px 2px 1px #
+ .info {
+    width: 300px;
+    display: flex;
+    align-self: flex-end;
+    flex-direction: column;
+    text-align: center;
+    color: #014260;
 }
