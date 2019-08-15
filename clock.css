@@ -149,7 +149,7 @@ body {
     filter: drop-shadow(3px 2px 1px #);
 }
 
- .info>span {
+ .info{
     width: 300px;
     margin-top:50px;
     display: flex;
