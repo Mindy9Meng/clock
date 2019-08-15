@@ -146,13 +146,15 @@ body {
     border-radius: 65px;
     transform: rotate(-90deg);
     transform-origin: 0 4.5px;
-    filter: drop-shadow(3px 2px 1px #
- .info {
+    filter: drop-shadow(3px 2px 1px #);
+}
+
+ .info>span {
     width: 300px;
     margin-top:50px;
     display: flex;
     flex-direction: column;
     text-align: center;
     align-self: flex-end;
-    
+    font-size:25px;
 }
